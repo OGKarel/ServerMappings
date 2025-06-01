@@ -1,0 +1,34 @@
+{
+    "id": "wlay",
+    "name": "Wlay",
+    "website": "https://www.wlay.eu/",
+    "addresses": [
+        "wlay.eu"
+    ],
+    "primaryAddress": "181.215.60.132:26584",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#cc0000",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",    
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/c9qv27XRfM",
+        "instagram": "https://www.instagram.com/wlayserver/",
+    }
+}
